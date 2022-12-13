@@ -10,7 +10,7 @@ that is capable of controlling the system and reading the (x,y) position of the 
 # Commands
 The project supports the functionality of the following shell commands: 
 
-## Reset
+## reset
 Hardware should reset. 
 
 ## sensor S, X, Y
